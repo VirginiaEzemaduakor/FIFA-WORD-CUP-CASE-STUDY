@@ -1,2 +1,1 @@
-# FIFA-WORD-CUP-CASE-STUDY
-Exploratory analysis on FIFA 2002-2018 world cup. 
+[README.md](https://github.com/VirginiaEzemaduakor/FIFA-WORD-CUP-CASE-STUDY/blob/main/FIFA/FIFA%20Report.md)
